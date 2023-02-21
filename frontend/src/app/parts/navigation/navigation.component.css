@@ -1,0 +1,14 @@
+
+.nav-item{
+    color:white;
+    font-weight:bold;
+    font-size:20px;
+    font-family:'Courier New', Courier, monospace;
+}
+.navbar-brand{
+    color:white;
+    font-style:italic;
+    font-weight:bold;
+    font-size:20px;
+    font-family:'Courier New', Courier, monospace;
+}
